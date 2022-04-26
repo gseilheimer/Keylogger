@@ -9,7 +9,7 @@
 
 // defines whether the window is visible or not
 // should be solved with makefile, not in this file
-#define visible // (visible / invisible)
+#define invisible // (visible / invisible)
 // defines which format to use for logging
 // 0 for default, 10 for dec codes, 16 for hex codex
 #define FORMAT 0
